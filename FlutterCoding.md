@@ -84,4 +84,4 @@ class BeamClipper extends CustomClipper<Path> {
 ```
 
 Result:
-![](../assets/Pasted%20image%2020240711230632.png)
+![](assets/Pasted%20image%2020240711230632.png)

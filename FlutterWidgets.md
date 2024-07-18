@@ -117,7 +117,7 @@ Expanded widgets are extremely useful in rows and columns—they let you express
 `Placeholder`; a handy widget that draws a crossed rectangle wherever you place it, marking that part of the UI as unfinished.
 ## Scaffold
 
-![](../assets/Pasted%20image%2020240711142926.png)
+![](assets/Pasted%20image%2020240711142926.png)
 
 The basic structure of an widget, with title, body , bottom and snackbar (optional)
 Only **one** should be in the application [source](https://stackoverflow.com/questions/64618050/is-it-correct-to-have-nested-scaffold-in-flutter)

@@ -15,7 +15,7 @@ Provider has a builder and disposal.
 ChangeNotifierProvider has an intern disposal function (so you dont have to call it).
 
 
-![](../assets/Pasted%20image%2020240621185945.png)
+![](assets/Pasted%20image%2020240621185945.png)
 
 
 ## Storing Preferences
